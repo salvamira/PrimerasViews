@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PrimerasViews</string>
+    <string name="guardar_automaticamente">Guardar automáticamente</string>
 </resources>
